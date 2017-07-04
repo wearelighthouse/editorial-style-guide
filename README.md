@@ -28,7 +28,7 @@ These are different symbols: -, –. The first is a hyphen, and is slightly shor
 
 Hyphens are used to join words together ('sabre-toothed tiger', 'cutting-edge technology') or indicate that a word has broken across two lines. They should also be used to form a compound adjective ('it was a high-quality product').
 
-_Note: many words that used to be hyphenated are now written as a single word ('bumblebee', 'handwriting'). Check the [Collins English Dictionary](http://www.collinsdictionary.com/) if you're not sure whether to hyphenate a word.
+_Note: many words that used to be hyphenated are now written as a single word ('bumblebee', 'handwriting'). Check the [Collins English Dictionary](http://www.collinsdictionary.com/) if you're not sure whether to hyphenate a word._
 
 En-dashes are are used to denote ranges ('1970–2017') or to introduce supplementary information in a sentence ('Three hours later – after a stiff drink and several cups of coffee – he was ready to leave the house'). 
 
