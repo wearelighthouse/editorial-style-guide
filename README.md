@@ -28,7 +28,7 @@ Hyphens are used to join words together ('sabre-toothed tiger', 'cutting-edge te
 
 En-dashes are are used to denote ranges ('1970–2017') or to introduce supplementary information in a sentence ('Three hours later – after a stiff drink and several cups of coffee – he was ready to leave the house'). 
 
-Because en-dashes can be used in place of a range of other punctuation marks, they should be used with caution. The reader has to infer whether the dash has been used in place of a comma, a semicolon or a parenthesis, which shifts the effort from the writer to the reader. Do the thinking yourself, so the reader doesn't have to.
+Because en-dashes can be used in place of a range of other punctuation marks, they should be used with caution. The reader has to infer whether the dash has been used as a comma, a semicolon or a parenthesis, which shifts the effort from the writer to the reader. Do the thinking yourself, so the reader doesn't have to.
 
 #### Semicolons
 
