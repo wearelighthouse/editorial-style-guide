@@ -4,7 +4,7 @@ Because when it comes to sales, content counts as much as code.
 
 ## Reference materials
 
-Refer to the [Collins English Dictionary][http://www.collinsdictionary.com/) on any points not specified here, including preferred spellings.
+Refer to the [Collins English Dictionary](http://www.collinsdictionary.com/) on any points not specified here, including preferred spellings.
 
 ## Style
 
