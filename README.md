@@ -52,7 +52,7 @@ Superman is one word. Spider-Man has a hyphen. Iron Man is two words. Batman is 
 
 #### Orphans and widows
 
-An orphan is a single sentence at the end of a paragraph that has broken to the next page or column. A widow is a single sentence at the start of a paragraph that has been left by itself at the end of a page or column. Neither is a big problem on websites, but they should be avoided in situations where layouts are fixed (print, PowerPoint presentations).
+An orphan is a single sentence at the end of a paragraph that has broken to the next page or column. If the isolated sentence is at the end of a page or column instead, it's a widow. Neither is a big problem on websites, but they should be avoided in situations where layouts are fixed (print, PowerPoint presentations).
 
 
 ## How to write well
