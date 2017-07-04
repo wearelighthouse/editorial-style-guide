@@ -2,9 +2,11 @@
 
 Because when it comes to sales, content counts as much as code.
 
+
 ## Reference materials
 
 Refer to the [Collins English Dictionary](http://www.collinsdictionary.com/) on any points not specified here, including preferred spellings.
+
 
 ## Style
 
@@ -26,6 +28,8 @@ These are different symbols: -, –. The first is a hyphen, and is slightly shor
 
 Hyphens are used to join words together ('sabre-toothed tiger', 'cutting-edge technology') or indicate that a word has broken across two lines. They should also be used to form a compound adjective ('it was a high-quality product').
 
+_Note: many words that used to be hyphenated are now written as a single word ('bumblebee', 'handwriting'). Check the [Collins English Dictionary](http://www.collinsdictionary.com/) if you're not sure whether to hyphenate a word.
+
 En-dashes are are used to denote ranges ('1970–2017') or to introduce supplementary information in a sentence ('Three hours later – after a stiff drink and several cups of coffee – he was ready to leave the house'). 
 
 Because en-dashes can be used in place of a range of other punctuation marks, they should be used with caution. The reader has to infer whether the dash has been used as a comma, a semicolon or a parenthesis, which shifts the effort from the writer to the reader. Do the thinking yourself, so the reader doesn't have to.
@@ -38,9 +42,18 @@ Because en-dashes can be used in place of a range of other punctuation marks, th
 
 Use straight quotation marks (', "), not curly quotation marks (‘, “). Initial quotations should use single quotes, while quotations-within-quotations should use double quotes. _Example: 'Punctuation might sound boring', said Steve, 'but "bad punctuation can ruin a pitch", as one expert said.'_
 
-### Formatting
+#### Formatting
 
 Italic and bold text should be used sparingly. This is particularly true online. Accessibility devices will often attribute semantic value to `<b>` and `<i>` tags, and research has shown that formatted text can be harder to read. _Exception: this sentence._
+
+#### Superheroes
+
+Superman is one word. Spider-Man has a hyphen. Iron Man is two words. Batman is an orphan. Speaking of orphans…
+
+#### Orphans and widows
+
+An orphan is a single sentence at the end of a paragraph that has broken to the next page or column. A widow is a single sentence at the start of a paragraph that has been left by itself at the end of a page or column. Neither is a big problem on websites, but they should be avoided in situations where layouts are fixed (print, PowerPoint presentations).
+
 
 ## How to write well
 
@@ -50,4 +63,4 @@ Good writing removes any barriers between your reader and the message you're com
 - **Simple sentences are better than complex sentences.** Sentences that string together several clauses can be confusing, ambiguous and ineffective. Simple sentences are clear, concise and strong. Varying the length of your sentences can keep readers interested, but most of your sentences should be short.
 - **Put important information first.** You don't know how far through the content readers will go, so make sure the key points are at the start of the piece.
 - **Avoid overused terms and jargon.** The more a word is used, the less impact it has. Words like 'bespoke', 'unique' and 'disrupt' have been overused to the point that most readers will glaze over them. Other terms – 'facilitate', 'front-load', 'action' as a verb – are simply jargon versions of plain English words. Don't use them.
-- **Don't overuse adjectives.** Adjectives may seem
+- **Adjectives should only be used to add additional information.** Many people use adjectives to emphasise a point: 'he was a very powerful man', or 'it was a dark night'. Neither of these examples adds any new information, and both sentences are stronger if the adjectives are deleted. Only use adjectives that introduce new information: 'it was a stormy night'. Never use 'very'.
