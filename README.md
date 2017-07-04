@@ -2,7 +2,19 @@
 
 Because when it comes to sales, content counts as much as code.
 
-## 1. How to write well
+## 1. Style
+
+### Numbers
+
+Numbers up to ten should be written out as word ('one year', 'four children'). From 11 upwards they should be represented with numerals ('1,435 voters', '52 weeks'). *Exception: if you're using several numbers in the same context (a list or a range), pick either numerals or words and be consistent throughout: 'There were five pigs, seven horses and twelve sheep', 'The students were aged 8 to 50'.
+
+Never start a sentence with a numeral ('12 people voted for Labour') – capital letters are a key visual cue to indicate the beginning of a sentence, so starting a sentence with a numeral makes it more difficult for people to read. If a sentence starts with a numeral, rewrite it so the number isn't at the start ('Labour received 12 votes'). *Exception: it's acceptable to start a headline with a numeral.*
+
+### Dates
+
+If written out in full, dates should be in the format __weekday (full word), day (numeric), month (word), year (full numeric)__: 'Tuesday 4 July 2017'. When omitting the weekday, day or year, keep the same order but omit the unnecessary elements: '10 August 2018', 'July 2015', '17 January'.
+
+## 2. How to write well
 
 Good writing removes any barriers between your reader and the message you're communicating. There is no single way to write well, but there are many tried-and-tested rules that will improve your writing.
 
