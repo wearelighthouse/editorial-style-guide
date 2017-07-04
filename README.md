@@ -12,11 +12,35 @@ Refer to the [Collins English Dictionary](http://www.collinsdictionary.com/) on 
 
 Numbers up to ten should be written out as word ('one year', 'four children'). From 11 upwards they should be represented with numerals ('1,435 voters', '52 weeks'). *Exception: if you're using several numbers in the same context (a list or a range), pick either numerals or words and be consistent throughout: 'There were five pigs, seven horses and twelve sheep', 'The students were aged 8 to 50'.
 
-Never start a sentence with a numeral ('12 people voted for Labour') – capital letters are a key visual cue to indicate the beginning of a sentence, so starting a sentence with a numeral makes it more difficult for people to read. If a sentence starts with a numeral, rewrite it so the number isn't at the start ('Labour received 12 votes'). *Exception: it's acceptable to start a headline with a numeral.*
+Never start a sentence with a numeral ('12 people voted for Labour'). Capital letters are a key visual cue to indicate the beginning of a sentence, so starting a sentence with a numeral makes it more difficult for people to read. If a sentence starts with a numeral, rewrite it so the number isn't at the start ('Labour received 12 votes'). *Exception: it's acceptable to start a headline with a numeral.*
 
 ### Dates
 
 If written out in full, dates should be in the format __weekday (full word), day (numeric), month (word), year (full numeric)__: 'Tuesday 4 July 2017'. When omitting the weekday, day or year, keep the same order but omit the unnecessary elements: '10 August 2018', 'July 2015', '17 January'.
+
+### Punctuation
+
+#### Hyphens and en-dashes
+
+These are different symbols: -, –. The first is a hyphen, and is slightly shorter. The longer mark is an en-dash (so-called because it has the same width as an 'n').
+
+Hyphens are used to join words together ('sabre-toothed tiger', 'cutting-edge technology') or indicate that a word has broken across two lines.
+
+En-dashes are are used to denote ranges ('1970–2017') or to introduce supplementary information in a sentence ('Three hours later – after a stiff drink and several cups of coffee – he was ready to leave the house'). 
+
+Because en-dashes can be used in place of a range of other punctuation marks, they should be used with caution. The reader has to infer whether the dash has been used in place of a comma, a semicolon or a parenthesis, which shifts the effort from the writer to the reader. Do the thinking yourself, so the reader doesn't have to.
+
+#### Semicolons
+
+'Do not use semicolons. They are transvestite hermaphrodites representing absolutely nothing. All they do is show you've been to college.' – Kurt Vonnegut. He's right.
+
+#### Quotation marks
+
+Use straight quotation marks (', "), not curly quotation marks (‘, “). Initial quotations should use single quotes, while quotations-within-quotations should use double quotes. _Example: 'Punctuation might sound boring', said Steve, 'but "bad punctuation can ruin a pitch", as one expert said.'_
+
+#### Starting sentences with conjunctions
+
+A conjunction is a word that joins two separate clauses, such as _and, but, because, while, until, although_ or _if_. Some people believe it's ungrammatical to start a sentence with a conjunction. They're wrong. Because Stone Cold said so.
 
 ## How to write well
 
