@@ -2,7 +2,11 @@
 
 Because when it comes to sales, content counts as much as code.
 
-## 1. Style
+## Reference materials
+
+Refer to the (Collins English Dictionary)[http://www.collinsdictionary.com/] on any points not specified here, including preferred spellings.
+
+## Style
 
 ### Numbers
 
@@ -14,7 +18,7 @@ Never start a sentence with a numeral ('12 people voted for Labour') – capital
 
 If written out in full, dates should be in the format __weekday (full word), day (numeric), month (word), year (full numeric)__: 'Tuesday 4 July 2017'. When omitting the weekday, day or year, keep the same order but omit the unnecessary elements: '10 August 2018', 'July 2015', '17 January'.
 
-## 2. How to write well
+## How to write well
 
 Good writing removes any barriers between your reader and the message you're communicating. There is no single way to write well, but there are many tried-and-tested rules that will improve your writing.
 
