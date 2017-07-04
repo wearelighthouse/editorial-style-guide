@@ -24,7 +24,7 @@ If written out in full, dates should be in the format __weekday (full word), day
 
 These are different symbols: -, –. The first is a hyphen, and is slightly shorter. The longer mark is an en-dash (so-called because it has the same width as an 'n').
 
-Hyphens are used to join words together ('sabre-toothed tiger', 'cutting-edge technology') or indicate that a word has broken across two lines.
+Hyphens are used to join words together ('sabre-toothed tiger', 'cutting-edge technology') or indicate that a word has broken across two lines. They should also be used to form a compound adjective ('it was a high-quality product').
 
 En-dashes are are used to denote ranges ('1970–2017') or to introduce supplementary information in a sentence ('Three hours later – after a stiff drink and several cups of coffee – he was ready to leave the house'). 
 
@@ -32,15 +32,15 @@ Because en-dashes can be used in place of a range of other punctuation marks, th
 
 #### Semicolons
 
-'Do not use semicolons. They are transvestite hermaphrodites representing absolutely nothing. All they do is show you've been to college.' – Kurt Vonnegut. He's right.
+'Do not use semicolons. They are transvestite hermaphrodites representing absolutely nothing. All they do is show you've been to college.' Kurt Vonnegut said that. He's right.
 
 #### Quotation marks
 
 Use straight quotation marks (', "), not curly quotation marks (‘, “). Initial quotations should use single quotes, while quotations-within-quotations should use double quotes. _Example: 'Punctuation might sound boring', said Steve, 'but "bad punctuation can ruin a pitch", as one expert said.'_
 
-#### Starting sentences with conjunctions
+### Formatting
 
-A conjunction is a word that joins two separate clauses, such as _and, but, because, while, until, although_ or _if_. Some people believe it's ungrammatical to start a sentence with a conjunction. They're wrong. Because Stone Cold said so.
+Italic and bold text should be used sparingly. This is particularly true online. Accessibility devices will often attribute semantic value to `<b>` and `<i>` tags, and research has shown that formatted text can be harder to read. _Exception: this sentence._
 
 ## How to write well
 
@@ -50,3 +50,4 @@ Good writing removes any barriers between your reader and the message you're com
 - **Simple sentences are better than complex sentences.** Sentences that string together several clauses can be confusing, ambiguous and ineffective. Simple sentences are clear, concise and strong. Varying the length of your sentences can keep readers interested, but most of your sentences should be short.
 - **Put important information first.** You don't know how far through the content readers will go, so make sure the key points are at the start of the piece.
 - **Avoid overused terms and jargon.** The more a word is used, the less impact it has. Words like 'bespoke', 'unique' and 'disrupt' have been overused to the point that most readers will glaze over them. Other terms – 'facilitate', 'front-load', 'action' as a verb – are simply jargon versions of plain English words. Don't use them.
+- **Don't overuse adjectives.** Adjectives may seem
