@@ -10,9 +10,9 @@ Refer to the [Collins English Dictionary](http://www.collinsdictionary.com/) on 
 
 ### Numbers
 
-Numbers up to ten should be written out as word ('one year', 'four children'). From 11 upwards they should be represented with numerals ('1,435 voters', '52 weeks'). *Exception: if you're using several numbers in the same context (a list or a range), pick either numerals or words and be consistent throughout: 'There were five pigs, seven horses and twelve sheep', 'The students were aged 8 to 50'.
+Numbers up to ten should be written out as word ('one year', 'four children'). From 11 upwards they should be represented with numerals ('1,435 voters', '52 weeks'). _Exception: if you're using several numbers in the same context (a list or a range), pick either numerals or words and be consistent throughout: 'There were five pigs, seven horses and twelve sheep', 'The students were aged 8 to 50'._
 
-Never start a sentence with a numeral ('12 people voted for Labour'). Capital letters are a key visual cue to indicate the beginning of a sentence, so starting a sentence with a numeral makes it more difficult for people to read. If a sentence starts with a numeral, rewrite it so the number isn't at the start ('Labour received 12 votes'). *Exception: it's acceptable to start a headline with a numeral.*
+Never start a sentence with a numeral ('12 people voted for Labour'). Capital letters are a key visual cue to indicate the beginning of a sentence, so starting a sentence with a numeral makes it more difficult for people to read. If a sentence starts with a numeral, rewrite it so the number isn't at the start ('Labour received 12 votes'). _Exception: it's acceptable to start a headline with a numeral._
 
 ### Dates
 
