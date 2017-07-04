@@ -16,7 +16,7 @@ Never start a sentence with a numeral ('12 people voted for Labour'). Capital le
 
 ### Dates
 
-If written out in full, dates should be in the format __weekday (full word), day (numeric), month (word), year (full numeric)__: 'Tuesday 4 July 2017'. When omitting the weekday, day or year, keep the same order but omit the unnecessary elements: '10 August 2018', 'July 2015', '17 January'.
+If written out in full, dates should be in the format 'Tuesday 4 July 2017'. When omitting the weekday, day or year, keep the same order but omit the unnecessary elements: '10 August 2018', 'July 2015', '17 January'.
 
 ### Punctuation
 
