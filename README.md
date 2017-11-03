@@ -64,3 +64,8 @@ Good writing removes any barriers between your reader and the message you're com
 - **Put important information first.** You don't know how far through the content readers will go, so make sure the key points are at the start of the piece.
 - **Avoid overused terms and jargon.** The more a word is used, the less impact it has. Words like 'bespoke', 'unique' and 'disrupt' have been overused to the point that most readers will glaze over them. Other terms – 'facilitate', 'front-load', 'action' as a verb – are simply jargon versions of plain English words. Don't use them.
 - **Adjectives should only be used to add additional information.** Many people use adjectives to emphasise a point: 'he was a very powerful man', or 'it was a dark night'. Neither of these examples adds any new information, and both sentences are stronger if the adjectives are deleted. Only use adjectives that introduce new information: 'it was a stormy night'. Never use 'very'.
+
+
+## Specific terms
+
+- **Front end/back end**: Only hyphenate when used as an adjective ('front-end development', 'back-end architecture'). Keep as separate words when using as a noun ('We spent 20 hours working on the front end', 'The back end still has a few bugs'). 
